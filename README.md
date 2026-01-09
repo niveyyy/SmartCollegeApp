@@ -1,6 +1,6 @@
-# smart_college_app
+# UniGuide
 
-Smart College App is a mobile application built with Flutter that helps students and faculty manage college-related tasks like information, navigation, and events. It uses Firebase for authentication, database, and storage.
+UniGuide is a mobile application built with Flutter that helps students and faculty manage college-related tasks like information, navigation, and events. It uses Firebase for authentication, database, and storage.
 
 ## Features
 
