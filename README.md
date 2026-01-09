@@ -1,16 +1,27 @@
 # smart_college_app
 
-A new Flutter project.
+Smart College App is a mobile application built with Flutter that helps students and faculty manage college-related tasks like information, navigation, and events. It uses Firebase for authentication, database, and storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Admin login and dashboard
+- Student dashboard
+- Route Navoigation
+- Doubt Clarification
+- Event Notification
+  
+  ## Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase (Firestore, Auth, Storage)
+- **Optional:** Cloud Functions (Node.js)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo:
+   git clone https://github.com/yourusername/smart-college-app.git
+2. Navigate to project folder:
+   cd smart-college-app
+3. Install dependencies:
+   flutter pub get
+4. Run the app:
+   flutter run
